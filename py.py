@@ -67,3 +67,4 @@ for entry in json_data:
         ( user_id, course_id,role ) )
 
     conn.commit()
+print(Done)
